@@ -13,6 +13,7 @@ Xem trang giới thiệu bằng cách mở `index.html` ở thư mục gốc b�
 
 | Tệp | Nội dung |
 |---|---|
+| `LICENSE` | Giấy phép MIT |
 | `README.md` | Tài liệu giới thiệu này |
 | `index.html` | Trang chính |
 
