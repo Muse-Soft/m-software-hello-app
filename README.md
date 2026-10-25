@@ -4,6 +4,7 @@
 
 > Đây là bản demo: ứng dụng không thu thập dữ liệu, không có tài khoản và không kết nối máy chủ. Tệp APK được đính kèm tại mục Releases của kho này (thẻ `apk-latest`).
 
+**Demo trực tuyến:** https://m-software-hello-app.genalpha.dev
 **Giấy phép:** [MIT](LICENSE) © M-Software
 
 ## Cách xem
