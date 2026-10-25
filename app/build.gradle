@@ -1,0 +1,13 @@
+apply plugin: 'com.android.application'
+
+android {
+    namespace 'dev.genalpha.xinchao'
+    compileSdk 34
+    defaultConfig {
+        applicationId 'dev.genalpha.xinchao'
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName '1.0'
+    }
+}
